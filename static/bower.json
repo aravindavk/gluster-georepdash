@@ -1,0 +1,21 @@
+{
+  "name": "static",
+  "authors": [
+    "Aravinda VK <mail@aravindavk.in>"
+  ],
+  "description": "Static files for gluster-georepdash",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "^0.6.1"
+  }
+}
