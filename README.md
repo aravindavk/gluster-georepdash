@@ -48,7 +48,7 @@ Geo-replication status.
 **UI Changes when a Geo-rep session is stopped from anywhere in Cluster**  
 ![When Geo-replication Stopped](https://github.com/aravindavk/gluster-georepdash/raw/master/screenshots/georep_stop.gif)
 
-** UI Changes when a Geo-rep session goes to Faulty**  
+**UI Changes when a Geo-rep session goes to Faulty**  
 ![When Geo-replication is Faulty](https://github.com/aravindavk/gluster-georepdash/raw/master/screenshots/georep_faulty.gif)
 
 ### UI/Dashboard Notes
